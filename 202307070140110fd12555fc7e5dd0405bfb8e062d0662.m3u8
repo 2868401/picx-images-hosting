@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.408411,
+https://tongsidezhilian-1314630148.cos.ap-nanjing.myqcloud.com/12023-03-24/hez000.png
+#EXTINF:8.241567,
+https://tongsidezhilian-1314630148.cos.ap-nanjing.myqcloud.com/12023-03-24/hez001.png
+#EXTINF:0.834178,
+https://tongsidezhilian-1314630148.cos.ap-nanjing.myqcloud.com/12023-03-24/hez002.png
+#EXTINF:2.535867,
+https://tongsidezhilian-1314630148.cos.ap-nanjing.myqcloud.com/12023-03-24/hez003.png
+#EXT-X-ENDLIST
